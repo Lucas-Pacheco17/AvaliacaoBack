@@ -1,0 +1,25 @@
+{
+  "name": "avaliacaoback",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Lucas-Pacheco17/AvaliacaoBack#readme",
+  "bugs": {
+    "url": "https://github.com/Lucas-Pacheco17/AvaliacaoBack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-Pacheco17/AvaliacaoBack.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {}
+}
